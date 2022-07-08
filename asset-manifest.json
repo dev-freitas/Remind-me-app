@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Remind-me-app/static/css/main.da696e10.css",
+    "main.js": "/Remind-me-app/static/js/main.ebe78c00.js",
+    "index.html": "/Remind-me-app/index.html",
+    "main.da696e10.css.map": "/Remind-me-app/static/css/main.da696e10.css.map",
+    "main.ebe78c00.js.map": "/Remind-me-app/static/js/main.ebe78c00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da696e10.css",
+    "static/js/main.ebe78c00.js"
+  ]
+}
