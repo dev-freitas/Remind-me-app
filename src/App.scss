@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #feb236;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    color: rgb(90, 148, 236);
+}
+
+h2 {
+    font-size: 25px;
+    color: #d64161;
+}
+    
+
+form {
+    height: 100vh;
+}
+
+label {
+    color: #6b5b95;
+    align-self: flex-start;
+    font-size: 15px;
+}
